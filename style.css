@@ -1,0 +1,34 @@
+header { 
+	background-color: blue;
+
+}
+.header_item {
+	font-size: 16px;
+	color: white;
+}
+.header_item img {
+	width: 115px;
+	height: 65px;
+}
+
+.image img {
+	width: 1195px;
+	height: 600px;
+}
+ul {
+	list-style: none;
+}
+a { 
+	text-decoration: none;
+	color: white;
+}
+h1 {
+	font-size: 28px;
+	color: 171717;
+}
+#black {
+	color: black;
+	background-color: white;
+	border-radius: 28px;
+	width: 100px;
+}
