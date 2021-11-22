@@ -91,3 +91,15 @@ h3{
 .map {
 	margin: 240px;
 }
+.white {
+	color: white;
+	font-size: 16px;
+	margin: 240px;
+}
+footer {
+	background-color: #0A22F4;
+}
+.smartlogo {
+	width: 121px;
+	height: 35px;
+}
