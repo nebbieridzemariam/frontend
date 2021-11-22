@@ -1,6 +1,10 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
 header { 
 	background-color: blue;
-
 }
 .header_item {
 	font-size: 16px;
@@ -10,12 +14,21 @@ header {
 	width: 115px;
 	height: 65px;
 	margin-top: 40px;
-	margin-left: 240px;
+	margin-left: 100px;
+	vertical-align: middle;
 }
-
+li {
+	display: inline-block;
+	width: 110px;
+	margin-left: 20px;
+}
+.navbar {
+	vertical-align: middle;
+}
+	
 .image img {
-	width: 1195px;
-	height: 600px;
+	width: 700px;
+	height: 400px;
 	margin-left: 362px;
 }
 ul {
@@ -43,7 +56,7 @@ h1 {
 }
 .paragraphfonts p {
 	font-size: 16px;
-	margin-left: 484.5px;
+	margin-left: 362.5px;
 }
 h2 {
 	background-color: #0A22F4;
@@ -55,4 +68,26 @@ h2 {
 	margin-left: 847px;
 	padding-left: 57px;
 	padding-top: 18px;
+}
+.secondsection {
+	background-color: #0A22F4;
+}
+h3{
+	color: white;
+	font-size: 32px;
+	margin: 240px;
+	padding-top: 100px;
+	width: 162px
+	height: 38px;
+}
+.small {
+	font-size: 16px;
+	color: white;
+	width: 463px;
+	height: 99px;
+	margin: 240px;
+	padding-top: 1px;
+}
+.map {
+	margin: 240px;
 }
